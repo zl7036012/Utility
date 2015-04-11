@@ -3,4 +3,5 @@ using namespace std;
 
 int main()
 {
-	cout <<"a
+	cout <<"aa" <<endl;
+	cout <<"cc" <<endl;
